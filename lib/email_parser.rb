@@ -7,7 +7,9 @@ attr_accessible :name, :csv_emails
 
 class EmailAddressParser 
   
-  def parse  
-    parser.parse
+  def initialize(csv_emails)
+    
+    @csv_emails = 
+    
   end 
 end 
