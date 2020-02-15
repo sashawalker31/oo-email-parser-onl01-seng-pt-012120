@@ -8,6 +8,6 @@
 class EmailAddressParser 
   
   def parse  
-    Array.new = []
+    
   end 
 end 
