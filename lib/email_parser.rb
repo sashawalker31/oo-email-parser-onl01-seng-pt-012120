@@ -3,7 +3,7 @@
 # unique email addresses. The delimiters to support are commas (',')
 # or whitespace (' ').
 
-attr_accessible :name, :
+attr_accessible :name, :csv_emails
 
 class EmailAddressParser 
   
